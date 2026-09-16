@@ -1,5 +1,17 @@
+html{
+    background-color: rgb(162, 241, 205);
+}
 h1{
-    color: rgb(118, 18, 211);
-    background-color: rgb(255, 0, 0);
+    color: rgb(177, 32, 196);
     
+}
+.big{
+    font-size: xx-large;
+}
+.red{
+    color: crimson;
+}
+#unique{
+    background-color:rgb(46, 209, 201);
+    color:white
 }
