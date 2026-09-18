@@ -9,7 +9,7 @@ h1{
     font-size: xx-large;
 }
 .red{
-    color: crimson;
+    color: rgb(255, 149, 10);
 }
 #unique{
     color:rgb(0, 0, 0)
