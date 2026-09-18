@@ -1,9 +1,9 @@
 html{
-    background-color: rgb(162, 241, 205);
+    background-color: rgb(255, 255, 255);
 }
 h1{
-    color: rgb(177, 32, 196);
-    
+    color: rgb(32, 196, 193);
+    text-underline-position:auto ;
 }
 .big{
     font-size: xx-large;
@@ -12,6 +12,5 @@ h1{
     color: crimson;
 }
 #unique{
-    background-color:rgb(46, 209, 201);
-    color:white
+    color:rgb(0, 0, 0)
 }
