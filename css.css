@@ -1,16 +1,28 @@
 html{
-    background-color: rgb(255, 255, 255);
+    background-color: rgba(56, 153, 129, 0.514);
+}
+a{
+    background-color: rgb(0, 0, 0);
+    padding: 10px;
+    color: rgb(211, 43, 226);
+    margin: 5px; 
+    border: 50px solidcolor(50, 50, 50);
+    border-radius: 10px !important;
 }
 h1{
-    color: rgb(32, 196, 193);
-    text-underline-position:auto ;
+    color: rgb(196, 32, 133);
+    text-underline-position:auto;
 }
 .big{
     font-size: xx-large;
 }
 .red{
-    color: rgb(255, 149, 10);
+    color: rgb(10, 96, 255);
 }
 #unique{
-    color:rgb(0, 0, 0)
+    color:rgb(0, 0, 0);
+}
+p{
+    font-style: oblique;
+    font-weight: 1000;
 }
